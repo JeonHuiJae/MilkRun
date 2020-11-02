@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ColliderTrig
+  - storeTag
+  - GameManager
+  - ActionManager
+  - Ground
+  - DogState
+  - WagonState
+  - DogHead
+  - Monster
+  - JumpAttackColl
+  - Object
+  - SoundManager
+  - TitleManager
+  - Boss
+  - House
+  - MilkUI
+  - punchWagonColl
+  - Wagon
+  - punch
+  - fire
+  - ObjectChildColl
+  - BossHP
+  - Footer
+  - MilkManager
+  - Boss2
+  - Boss2Shark
+  - Shark
+  - MainMenuManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - UP_BackGround
+  - Player
+  - Monster
+  - MobGroundColl
+  - Object
+  - House
+  - Coin
+  - UPUP_BackGround
+  - LareCoin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LandScape
+    uniqueID: 2113666137
+    locked: 0
+  - name: background
+    uniqueID: 13950159
+    locked: 0
+  - name: Monster
+    uniqueID: 3602350847
+    locked: 0
+  - name: Player
+    uniqueID: 2081645173
+    locked: 0
+  - name: Weapon
+    uniqueID: 2396349735
+    locked: 0
+  - name: Effect
+    uniqueID: 3002217835
+    locked: 0
+  - name: UI
+    uniqueID: 1483266269
+    locked: 0
